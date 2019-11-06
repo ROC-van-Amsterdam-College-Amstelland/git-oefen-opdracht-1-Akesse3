@@ -89,6 +89,7 @@
 }
 
 h1 {
+  font-family: verdana;
   color: white;
   text-align: center;
 }
@@ -110,5 +111,8 @@ p {
   width: 50%;
 }
   
+.LikeButton {
+  font-size: 50px;
+}
 
   
